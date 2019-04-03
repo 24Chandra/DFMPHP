@@ -291,7 +291,7 @@ for ($w = 0; $w <= 23; $w++) {
                     ]);
                     var options = {
                         legend: {
-                            position: 'none',
+                            position: 'right',
                             layout: 'horizontal',
                         },
                         chart: {
